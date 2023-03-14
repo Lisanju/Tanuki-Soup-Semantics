@@ -12,4 +12,4 @@ The written word 偽狸汁 can be pronunced as nisetanukijiru or nisedanukijiru 
 <h1 align="left">Nise[d]anukijiru Syntatic and Semantic Composition</h1>
 <p align="left">NISEDANUKIJIRU [ [ NISE DANUKI ] JIRU ] ]</p>
 <p align="left">[[NISEDANUKI]] = NISE(danuki)</p>
-<p align="left">Semantically speaking, Nisedanukijiru have in its structure a Danuki predicated by Nise. In other words, Nisedanukijiru is a 'false Tanuki' soup - a soup prepared with false tanukis.</p>
+<p align="left">Semantically speaking, Nisedanukijiru have in its structure a Danuki predicated by Nise. In other words, Nisedanukijiru is a 'false Tanuki' soup - a soup made with false tanukis.</p>
